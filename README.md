@@ -1,4 +1,4 @@
-# fa2db
+# fso2db
 Archives / backups flexibly files, folders, links etc (file system objects - FSOs) to an embedded database.
 * There is a project controlling which file system objects are to be archived and revisioned.
 * Every FSO obtains a GUID. 
