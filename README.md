@@ -4,4 +4,5 @@ Archives / backups / revision flexibly files, folders, links etc (file system ob
 * Every FSO obtains a GUID. 
 * When the project will be revisioned then all FSOs are saved and every FSO obtains the same revision number (GUID or similar).
 * Every version of a FSOs is saved completely without saving differences etc, for simplicity reasons. 
-* Every FSO revision is saved in a table sentence.
+* Every FSO revision is saved in a table sentence. Optionally the FSO can be compressed.
+* Contents of certain FSOs can be indexed.
